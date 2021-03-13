@@ -1,0 +1,10 @@
+{
+    "message": "add",     
+    "branch": "",
+    "token":"", 
+    "userName":"",
+    "repositorie":"",
+    "Folder":"",
+    "BucketDomain": "https://gitee.com/api/v5/repos/"               
+}
+
